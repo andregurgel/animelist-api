@@ -1,0 +1,13 @@
+package br.dev.andregurgel.animelistapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AnimelistApiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
